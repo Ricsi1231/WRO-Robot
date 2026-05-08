@@ -14,8 +14,8 @@
     <td align="center" width="33%">
       <img src="t-photos/Members/Mark.jpg" alt="Mark Gulyas" width="100%" style="display: block; margin: 0 auto; border-radius: 8px;"><br>
       <strong>MARK GULYAS</strong><br>
-      <em>Mechanical Designer</em><br>
-      <sub>Mechanical Design, Robot Assembly, CAD Development</sub>
+      <em>Mechanical Design Support</em><br>
+      <sub>Assistance, Part Development, Robot Assembly</sub>
     </td>
     <td align="center" width="33%">
       <img src="t-photos/Members/Richard.jpg" alt="Richard Nagy" width="100%" style="display: block; margin: 0 auto; border-radius: 8px;"><br>
@@ -26,8 +26,8 @@
     <td align="center" width="33%">
       <img src="t-photos/Members/Predrag.jpg" alt="Predrag Prijovic" width="100%" style="display: block; margin: 0 auto; border-radius: 8px;"><br>
       <strong>PREDRAG PRIJOVIC</strong><br>
-      <em>Mechanical Engineer</em><br>
-      <sub>Mechanical Engineering, Robot Assembly, Design Support</sub>
+      <em>CAD Design Leader</em><br>
+      <sub>CAD Design, Mechanical Engineering, Robot Assembly</sub>
     </td>
   </tr>
 </table>
