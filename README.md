@@ -4,9 +4,11 @@ This is the Traktoristak team repository for the WRO robot competition, where we
 
 ## Team Members
 
-- Nagy Richard - Mechatronics Engineering student, Team Lead, hardware and software developer
-- Predrag Prijovic - Mechatronics Engineering student, Mechanical Design
-- Gulyas Mark - Mechatronics Engineering student, Mechanical Design
+| Name | Role | University |
+| --- | --- | --- |
+| Nagy Richard | Team Lead, hardware and software developer | Subotica Tech - College of Applied Sciences |
+| Predrag Prijovic | Mechanical Design | Subotica Tech - College of Applied Sciences |
+| Gulyas Mark | Mechanical Design | Subotica Tech - College of Applied Sciences |
 
 This repository groups the project into three submodules:
 
