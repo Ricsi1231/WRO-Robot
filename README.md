@@ -85,9 +85,9 @@ git clone --recurse-submodules https://github.com/Ricsi1231/WRO-Robot.git
 <a name="engineering-documentation"></a>
 ## Engineering Documentation
 
-- [Hardware documentation](schemes/README.md): controller, power system, sensors, camera, motor driver, wiring, and schematic references.
-- [Software documentation](src/README.md): setup, robot runtime, deployment, calibration, component tests, architecture, and development workflow.
-- [Architecture](src/docs/architecture.md): software structure and runtime responsibilities.
-- [Hardware and Configuration](src/docs/hardware-and-config.md): pin configuration and hardware setup.
-- [Deployment](src/docs/deployment.md): Raspberry Pi deployment workflow.
-- [Calibration](src/docs/calibration.md): camera calibration process.
+- [Hardware documentation](https://github.com/Ricsi1231/WRO-Robot-Hardware/blob/dev/README.md): controller, power system, sensors, camera, motor driver, wiring, and schematic references.
+- [Software documentation](https://github.com/Ricsi1231/WRO-Robot-Software/blob/dev/README.md): setup, robot runtime, deployment, calibration, component tests, architecture, and development workflow.
+- [Architecture](https://github.com/Ricsi1231/WRO-Robot-Software/blob/dev/docs/architecture.md): software structure and runtime responsibilities.
+- [Hardware and Configuration](https://github.com/Ricsi1231/WRO-Robot-Software/blob/dev/docs/hardware-and-config.md): pin configuration and hardware setup.
+- [Deployment](https://github.com/Ricsi1231/WRO-Robot-Software/blob/dev/docs/deployment.md): Raspberry Pi deployment workflow.
+- [Calibration](https://github.com/Ricsi1231/WRO-Robot-Software/blob/dev/docs/calibration.md): camera calibration process.
