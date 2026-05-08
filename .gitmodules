@@ -1,9 +1,9 @@
-[submodule "hardware"]
-	path = hardware
+[submodule "schemes"]
+	path = schemes
 	url = https://github.com/Ricsi1231/WRO-Robot-Hardware
-[submodule "mechanical"]
-	path = mechanical
+[submodule "models"]
+	path = models
 	url = https://github.com/Ricsi1231/WRO-Robot-Mechanical
-[submodule "software"]
-	path = software
+[submodule "src"]
+	path = src
 	url = https://github.com/Ricsi1231/WRO-Robot-Software
