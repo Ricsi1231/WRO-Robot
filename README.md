@@ -20,7 +20,7 @@
     <td align="center" width="33%">
       <img src="t-photos/Members/Richard.jpg" alt="Richard Nagy" width="100%" style="display: block; margin: 0 auto; border-radius: 8px;"><br>
       <strong>RICHARD NAGY</strong><br>
-      <em>Team Lead, Hardware and Software Developer</em><br>
+      <em>Hardware Designer, Software Developer, Control System Developer</em><br>
       <sub>Robot Control, Hardware Integration, Software Architecture</sub>
     </td>
     <td align="center" width="33%">
